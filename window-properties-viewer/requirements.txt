@@ -1,0 +1,5 @@
+# No external dependencies required
+# This tool uses only Python standard library modules:
+# - tkinter (included with Python on Windows)
+# - ctypes (standard library)
+# - threading (standard library)
